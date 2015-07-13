@@ -1,0 +1,2 @@
+este archivo fue creado desde el servidor local
+para probar las funciones git fetcg & git merge
